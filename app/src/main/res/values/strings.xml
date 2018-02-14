@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">リマインダーアプリ</string>
+    <string name="bt_thx_back">保存する</string>
+    <string name="edText">ここをタップして入力</string>
+    <string name="btnNew">メモする</string>
+    <string name="btnDelete">削除する</string>
+</resources>
